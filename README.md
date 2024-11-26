@@ -38,7 +38,7 @@ Learnings: Frontend development, data visualization, API integration
 
 Email: lindseymcgovern04@gmail.com
 
-LinkedIn: [linkedin.com/in/.](https://www.linkedin.com/in/lindseymcgovern/)
+LinkedIn: [linkedin.com/in/lindseymcgovern/.](https://www.linkedin.com/in/lindseymcgovern/)
  
 
 📊 GitHub Stats: Coming soon!
