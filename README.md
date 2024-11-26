@@ -35,14 +35,12 @@ Learnings: Frontend development, data visualization, API integration
  
 
 📫 How to Reach Me:
-
 Email: lindseymcgovern04@gmail.com
-
 LinkedIn: [linkedin.com/in/.](https://www.linkedin.com/in/lindseymcgovern/)
  
 
 📊 GitHub Stats: Coming soon!
- 
+
 
 ✨ Fun Fact:
 A matcha latte is my favorite accessory, and you can find me with it when coding to my favorite Lo-Fi playlist, engaging in fun-yet-charged discussion on AI ethics with my Women in Tech group, or decompressing with a TikTok scroll.
