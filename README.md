@@ -35,7 +35,9 @@ Learnings: Frontend development, data visualization, API integration
  
 
 📫 How to Reach Me:
+
 Email: lindseymcgovern04@gmail.com
+
 LinkedIn: [linkedin.com/in/.](https://www.linkedin.com/in/lindseymcgovern/)
  
 
