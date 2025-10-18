@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 Rising senior at Salem State University, studying Computer Science & Mathematics
+🎓 Senior at Salem State University, studying Computer Science & Mathematics
 
 I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a [Break Through Tech Fellow](https://www.breakthroughtech.org/)!) Currently, I'm focusing on building machine learning models and diving deeper into data science.
 
